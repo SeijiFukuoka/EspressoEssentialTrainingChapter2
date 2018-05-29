@@ -4,14 +4,17 @@ ADDED from C:\Users\seiji\StudioProjects\AndroidEspressoEssentialTraining\app\sr
 INJECTED from C:\Users\seiji\StudioProjects\AndroidEspressoEssentialTraining\app\src\main\AndroidManifest.xml:1:1-17:12
 INJECTED from C:\Users\seiji\StudioProjects\AndroidEspressoEssentialTraining\app\src\main\AndroidManifest.xml:1:1-17:12
 INJECTED from C:\Users\seiji\StudioProjects\AndroidEspressoEssentialTraining\app\src\main\AndroidManifest.xml:1:1-17:12
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\17188b6bd701a1a89246cb747f33cddc\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\c4e07f60f31c4e38f8a83b235549403f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c7ee4cfb0caa6291fcc0c198a4eb18ca\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\7a49877df0759a51f8fdb998f52d5396\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\728eef3af9af1c7b808a0f273c0f3f2e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\aa42cf29f12675a0dd9466aee993616e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\7df1f6b32481a30fd5c2f0da0d959c95\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\4cddacedd315ae3c43b754183fb1b7e6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\193a898da098efec01bfe4e6ae047299\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9aa83dd9a2257eaa821c02fc3d72eba3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\af7b577916c2e5db7a6c394bb9e3ad25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\227c02878332c45490d12c4d6eebcd92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\535336a0c057e1d6a7455d7af7586761\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\dc9f0bf69671df5ddf3a0e146591b681\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f2c54f566bc52960aa2b60a272ec50a1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\06b8626aad13ddcda65be5b186122696\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\97c9ec65105f349d5440af635743fef0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0091c04f1cde9f8abe1d2e720f0ad12a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ecc0bd90a7a44b4fa8e4e1af78fa7b65\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\Users\seiji\StudioProjects\AndroidEspressoEssentialTraining\app\src\main\AndroidManifest.xml:1:1-17:12
 INJECTED from C:\Users\seiji\StudioProjects\AndroidEspressoEssentialTraining\app\src\main\AndroidManifest.xml:1:1-17:12
 INJECTED from C:\Users\seiji\StudioProjects\AndroidEspressoEssentialTraining\app\src\main\AndroidManifest.xml:1:1-17:12
@@ -57,22 +60,28 @@ uses-sdk
 INJECTED from C:\Users\seiji\StudioProjects\AndroidEspressoEssentialTraining\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\seiji\StudioProjects\AndroidEspressoEssentialTraining\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\seiji\StudioProjects\AndroidEspressoEssentialTraining\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\17188b6bd701a1a89246cb747f33cddc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\17188b6bd701a1a89246cb747f33cddc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\c4e07f60f31c4e38f8a83b235549403f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\c4e07f60f31c4e38f8a83b235549403f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c7ee4cfb0caa6291fcc0c198a4eb18ca\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\c7ee4cfb0caa6291fcc0c198a4eb18ca\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\7a49877df0759a51f8fdb998f52d5396\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\7a49877df0759a51f8fdb998f52d5396\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\728eef3af9af1c7b808a0f273c0f3f2e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\728eef3af9af1c7b808a0f273c0f3f2e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\aa42cf29f12675a0dd9466aee993616e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\aa42cf29f12675a0dd9466aee993616e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\7df1f6b32481a30fd5c2f0da0d959c95\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\7df1f6b32481a30fd5c2f0da0d959c95\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\4cddacedd315ae3c43b754183fb1b7e6\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\4cddacedd315ae3c43b754183fb1b7e6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\193a898da098efec01bfe4e6ae047299\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\193a898da098efec01bfe4e6ae047299\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9aa83dd9a2257eaa821c02fc3d72eba3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9aa83dd9a2257eaa821c02fc3d72eba3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\af7b577916c2e5db7a6c394bb9e3ad25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\af7b577916c2e5db7a6c394bb9e3ad25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\227c02878332c45490d12c4d6eebcd92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\227c02878332c45490d12c4d6eebcd92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\535336a0c057e1d6a7455d7af7586761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\535336a0c057e1d6a7455d7af7586761\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\dc9f0bf69671df5ddf3a0e146591b681\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\dc9f0bf69671df5ddf3a0e146591b681\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f2c54f566bc52960aa2b60a272ec50a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f2c54f566bc52960aa2b60a272ec50a1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\06b8626aad13ddcda65be5b186122696\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\06b8626aad13ddcda65be5b186122696\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\97c9ec65105f349d5440af635743fef0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\97c9ec65105f349d5440af635743fef0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0091c04f1cde9f8abe1d2e720f0ad12a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0091c04f1cde9f8abe1d2e720f0ad12a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ecc0bd90a7a44b4fa8e4e1af78fa7b65\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\seiji\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ecc0bd90a7a44b4fa8e4e1af78fa7b65\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\seiji\StudioProjects\AndroidEspressoEssentialTraining\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\seiji\StudioProjects\AndroidEspressoEssentialTraining\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
